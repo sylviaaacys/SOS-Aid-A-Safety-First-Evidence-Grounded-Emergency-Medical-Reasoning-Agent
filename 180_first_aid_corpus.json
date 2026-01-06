@@ -1,0 +1,1444 @@
+[
+    {
+      "id": "fa_001_scene_safety",
+      "title": "Scene Safety and Calling for Help",
+      "scenario": "You arrive at an emergency scene and want to help safely.",
+      "keywords": ["first aid", "scene safety", "call emergency", "bystander"],
+      "content": "1) Make sure the scene is safe (traffic, fire, electricity, violence). 2) If unsafe, do not approach; call emergency services. 3) If safe, check the person from a distance and ask others for help. 4) Call local emergency services immediately for life-threatening situations. 5) Stay with the person until help arrives.",
+      "source_hint": "Red Cross / general first aid guidance"
+    },
+    {
+      "id": "fa_002_check_responsiveness",
+      "title": "Check Responsiveness",
+      "scenario": "Someone is lying on the ground and may be unconscious.",
+      "keywords": ["unresponsive", "consciousness", "first aid", "check responsiveness"],
+      "content": "1) Tap the person's shoulder gently. 2) Ask loudly: 'Are you OK?' 3) Look for any movement, eye opening, or speech. 4) If no response, call emergency services and proceed to check breathing.",
+      "source_hint": "Red Cross / basic life support overview"
+    },
+    {
+      "id": "fa_003_recovery_position",
+      "title": "Recovery Position for Unconscious but Breathing",
+      "scenario": "Someone is unresponsive but breathing normally.",
+      "keywords": ["recovery position", "unconscious", "breathing", "airway"],
+      "content": "1) Call emergency services. 2) Place the person on their side with the head slightly tilted back to keep the airway open. 3) Bend the top leg to stabilize the body. 4) Monitor breathing until help arrives. 5) Do not give food or drink.",
+      "source_hint": "First aid guidance commonly taught by Red Cross/St John"
+    },
+    {
+      "id": "fa_004_cardiac_arrest_cpr_hands_only",
+      "title": "Hands-Only CPR for Adult (Bystander)",
+      "scenario": "An adult collapsed, is unresponsive, and not breathing normally.",
+      "keywords": ["CPR", "hands-only", "cardiac arrest", "chest compressions"],
+      "content": "1) Call emergency services or ask someone to call. 2) Put the heel of one hand in the center of the chest, other hand on top. 3) Push hard and fast (about 100–120 compressions per minute). 4) Let the chest rise fully between compressions. 5) Keep going until an AED arrives or EMS takes over.",
+      "source_hint": "AHA / CPR basics"
+    },
+    {
+      "id": "fa_005_aed_use",
+      "title": "Using an AED (Automated External Defibrillator)",
+      "scenario": "An AED is available during a suspected cardiac arrest.",
+      "keywords": ["AED", "defibrillator", "cardiac arrest", "CPR"],
+      "content": "1) Turn on the AED and follow voice prompts. 2) Expose the chest and attach pads as shown on the pads. 3) Make sure no one is touching the person during analysis. 4) If advised, deliver the shock. 5) Immediately resume CPR after the shock (or if no shock advised).",
+      "source_hint": "AHA / AED public instructions"
+    },
+    {
+      "id": "fa_006_rescue_breaths_optional",
+      "title": "Rescue Breaths (If Trained and Willing)",
+      "scenario": "You are trained and willing to provide rescue breaths during CPR.",
+      "keywords": ["rescue breaths", "CPR", "airway", "mouth-to-mouth"],
+      "content": "1) After 30 compressions, open the airway (head tilt, chin lift). 2) Pinch the nose, seal your mouth over theirs. 3) Give 1 breath for about 1 second; watch chest rise. 4) Give a second breath. 5) Resume compressions immediately.",
+      "source_hint": "CPR training materials (AHA/Red Cross)"
+    },
+    {
+      "id": "fa_007_choking_adult_conscious",
+      "title": "Choking (Conscious Adult)",
+      "scenario": "A person cannot talk or cough and appears to be choking.",
+      "keywords": ["choking", "Heimlich", "abdominal thrusts", "airway obstruction"],
+      "content": "1) Ask: 'Are you choking?' 2) If they cannot speak/breathe, call emergency services. 3) Stand behind them, arms around the waist. 4) Make a fist above the navel; grasp with other hand. 5) Give quick inward-and-upward thrusts until the object comes out or they become unresponsive.",
+      "source_hint": "First aid choking guidance (Red Cross/AHA)"
+    },
+    {
+      "id": "fa_008_choking_unconscious",
+      "title": "Choking (Becomes Unconscious)",
+      "scenario": "A choking person becomes unresponsive.",
+      "keywords": ["choking", "unconscious", "CPR", "emergency"],
+      "content": "1) Call emergency services immediately. 2) Lower them gently to the ground. 3) Start CPR with chest compressions. 4) If trained to give breaths, check the mouth for a visible object before breaths; do not do blind finger sweeps. 5) Continue CPR until help arrives.",
+      "source_hint": "CPR/first aid training guidance"
+    },
+    {
+      "id": "fa_009_bleeding_control",
+      "title": "Severe Bleeding Control",
+      "scenario": "Someone is bleeding heavily from a wound.",
+      "keywords": ["bleeding", "pressure", "wound", "first aid"],
+      "content": "1) Put on gloves if available. 2) Apply firm direct pressure with a clean cloth or bandage. 3) If soaked, add more layers; do not remove the original. 4) Keep pressure continuously. 5) Call emergency services for severe bleeding or if bleeding will not stop.",
+      "source_hint": "First aid bleeding control guidance"
+    },
+    {
+      "id": "fa_010_tourniquet_last_resort",
+      "title": "Tourniquet (If Trained / Life-Threatening Limb Bleeding)",
+      "scenario": "Life-threatening bleeding from an arm or leg and direct pressure is not enough.",
+      "keywords": ["tourniquet", "severe bleeding", "limb", "emergency"],
+      "content": "1) Call emergency services. 2) Use a commercial tourniquet if available; place it above the wound (closer to the body). 3) Tighten until bleeding stops. 4) Note the time applied and tell EMS. 5) Do not loosen once applied unless instructed by professionals.",
+      "source_hint": "Stop the Bleed-style guidance"
+    },
+    {
+      "id": "fa_011_burn_minor",
+      "title": "Minor Burns (First Aid)",
+      "scenario": "A small burn from hot water or a hot surface.",
+      "keywords": ["burn", "scald", "cool water", "first aid"],
+      "content": "1) Cool the burn under cool running water for at least 10 minutes. 2) Remove rings or tight items before swelling starts. 3) Cover with a clean, non-stick dressing. 4) Do not apply ice, toothpaste, or butter. 5) Seek medical care if large, blistering, or on face/genitals/hands.",
+      "source_hint": "General first aid burn guidance"
+    },
+    {
+      "id": "fa_012_electric_shock",
+      "title": "Electric Shock",
+      "scenario": "Someone is shocked by electricity.",
+      "keywords": ["electric shock", "safety", "turn off power", "CPR"],
+      "content": "1) Do not touch the person if they are still in contact with electricity. 2) Turn off the power source if possible (switch/breaker). 3) Call emergency services. 4) Once safe, check responsiveness and breathing. 5) Start CPR if unresponsive and not breathing normally.",
+      "source_hint": "Electrical safety + first aid guidance"
+    },
+    {
+      "id": "fa_013_heat_exhaustion",
+      "title": "Heat Exhaustion (Not Heat Stroke)",
+      "scenario": "A person is sweating heavily, weak, dizzy after heat exposure.",
+      "keywords": ["heat exhaustion", "overheating", "cool down", "fluids"],
+      "content": "1) Move to a cooler place and rest. 2) Loosen clothing. 3) Cool with wet cloths and fanning. 4) Give sips of water if fully awake. 5) Seek medical help if symptoms worsen or do not improve quickly.",
+      "source_hint": "Public health / first aid heat guidance"
+    },
+    {
+      "id": "fa_014_heat_stroke_emergency",
+      "title": "Heat Stroke (Medical Emergency)",
+      "scenario": "Hot, confused, fainting, or not sweating with high heat exposure.",
+      "keywords": ["heat stroke", "emergency", "cooling", "call ambulance"],
+      "content": "1) Call emergency services immediately. 2) Move to shade/cool area. 3) Cool the body rapidly (wet towels, ice packs to neck/armpits/groin, fan). 4) Do not give drinks if confused or unconscious. 5) Monitor breathing until EMS arrives.",
+      "source_hint": "Public health / emergency heat guidance"
+    },
+    {
+      "id": "fa_015_fainting",
+      "title": "Fainting",
+      "scenario": "Someone feels dizzy and collapses briefly.",
+      "keywords": ["fainting", "syncope", "dizzy", "unconscious"],
+      "content": "1) Help them lie down safely. 2) Elevate legs if possible. 3) Loosen tight clothing and ensure fresh air. 4) If they do not wake quickly, call emergency services. 5) If they wake, keep them resting and monitor.",
+      "source_hint": "First aid basic guidance"
+    },
+    {
+      "id": "fa_016_seizure",
+      "title": "Seizure (Convulsion) First Aid",
+      "scenario": "A person is having a seizure with shaking.",
+      "keywords": ["seizure", "convulsion", "epilepsy", "first aid"],
+      "content": "1) Stay calm and time the seizure. 2) Protect from injury: move objects away, cushion head. 3) Do not restrain them and do not put anything in their mouth. 4) After shaking stops, place in recovery position if breathing. 5) Call emergency services if seizure lasts >5 minutes, repeats, injury occurs, or breathing is abnormal afterward.",
+      "source_hint": "Red Cross / epilepsy first aid guidance"
+    },
+    {
+      "id": "fa_017_asthma_attack",
+      "title": "Asthma Attack",
+      "scenario": "A person is wheezing and struggling to breathe.",
+      "keywords": ["asthma", "breathing difficulty", "inhaler", "emergency"],
+      "content": "1) Help them sit upright and stay calm. 2) Ask if they have a reliever inhaler; assist them to use it. 3) Encourage slow breaths. 4) Call emergency services if symptoms are severe, worsening, or not improving after inhaler use.",
+      "source_hint": "Public health / asthma first aid guidance"
+    },
+    {
+      "id": "fa_018_anaphylaxis",
+      "title": "Severe Allergic Reaction (Anaphylaxis)",
+      "scenario": "Swelling, trouble breathing, hives after food/insect/medicine exposure.",
+      "keywords": ["anaphylaxis", "allergy", "epinephrine", "EpiPen"],
+      "content": "1) Call emergency services immediately. 2) Use an epinephrine auto-injector if available and the person is trained/consents. 3) Lay them flat (or seated if breathing is difficult). 4) Do not give food or drink. 5) If they become unresponsive and not breathing normally, start CPR.",
+      "source_hint": "First aid / anaphylaxis guidance"
+    },
+    {
+      "id": "fa_019_stroke_fast",
+      "title": "Stroke Recognition (FAST) and Action",
+      "scenario": "Sudden face droop, arm weakness, speech difficulty.",
+      "keywords": ["stroke", "FAST", "face droop", "speech"],
+      "content": "1) Use FAST: Face drooping, Arm weakness, Speech difficulty. 2) Time: call emergency services immediately. 3) Note the time symptoms started. 4) Keep the person comfortable and monitor breathing. 5) Do not give food, drink, or medication unless instructed.",
+      "source_hint": "Public stroke awareness guidance"
+    },
+    {
+      "id": "fa_020_heart_attack_suspected",
+      "title": "Suspected Heart Attack",
+      "scenario": "Chest pressure/pain with sweating, nausea, shortness of breath.",
+      "keywords": ["heart attack", "chest pain", "call emergency", "aspirin"],
+      "content": "1) Call emergency services immediately. 2) Keep the person seated and calm. 3) Loosen tight clothing. 4) If they have prescribed medication (e.g., nitroglycerin), help them take it as directed. 5) If they become unresponsive and not breathing normally, begin CPR.",
+      "source_hint": "Public health / emergency guidance"
+    },
+    {
+      "id": "fa_021_hypoglycemia",
+      "title": "Low Blood Sugar (Hypoglycemia)",
+      "scenario": "A person with diabetes is shaky, sweaty, confused but awake.",
+      "keywords": ["hypoglycemia", "diabetes", "low blood sugar", "glucose"],
+      "content": "1) If awake and able to swallow, give fast sugar (glucose tablets, juice, regular soda). 2) Recheck symptoms after about 10–15 minutes. 3) Give a snack if they improve. 4) Call emergency services if they become very confused, cannot swallow, or lose consciousness. 5) Do not give food or drink to an unconscious person.",
+      "source_hint": "Diabetes first aid basics"
+    },
+    {
+      "id": "fa_022_head_injury_concussion_red_flags",
+      "title": "Head Injury: When to Seek Emergency Help",
+      "scenario": "Someone hit their head and you are unsure how serious it is.",
+      "keywords": ["head injury", "concussion", "vomiting", "unconscious"],
+      "content": "Call emergency services if any red flags occur: loss of consciousness, repeated vomiting, severe headache, confusion, seizure, weakness/numbness, bleeding that won’t stop, or worsening symptoms. Keep them still, monitor breathing, and do not give alcohol or sedatives.",
+      "source_hint": "Public first aid head injury guidance"
+    },
+    {
+      "id": "fa_023_suspected_spinal_injury",
+      "title": "Suspected Spinal Injury",
+      "scenario": "A person fell from height or had a car accident and may have neck/back injury.",
+      "keywords": ["spinal injury", "neck injury", "do not move", "trauma"],
+      "content": "1) Call emergency services. 2) Do not move the person unless there is immediate danger. 3) Keep the head and neck as still as possible. 4) If they vomit or need airway help, try to keep the head/neck aligned while turning with assistance. 5) Monitor breathing until help arrives.",
+      "source_hint": "Trauma first aid basics"
+    },
+    {
+      "id": "fa_024_fracture_suspected",
+      "title": "Suspected Fracture",
+      "scenario": "A limb looks deformed or is extremely painful after injury.",
+      "keywords": ["fracture", "broken bone", "splint", "swelling"],
+      "content": "1) Keep the person still and call for medical help if severe. 2) Immobilize the injured area in the position found. 3) Apply a cold pack wrapped in cloth to reduce swelling. 4) Do not try to realign bones. 5) Watch for shock and keep them warm.",
+      "source_hint": "First aid fracture guidance"
+    },
+    {
+      "id": "fa_025_sprain_strain",
+      "title": "Sprain/Strain First Aid",
+      "scenario": "An ankle twists and becomes painful and swollen.",
+      "keywords": ["sprain", "strain", "RICE", "swelling"],
+      "content": "1) Rest the injured area. 2) Apply cold pack wrapped in cloth for short periods. 3) Use a compression bandage if available (not too tight). 4) Elevate the limb. 5) Seek medical care if severe pain, deformity, or inability to bear weight.",
+      "source_hint": "Common first aid guidance"
+    },
+    {
+      "id": "fa_026_poisoning_ingestion",
+      "title": "Poisoning (Swallowed Substance)",
+      "scenario": "Someone may have swallowed a harmful chemical or too much medication.",
+      "keywords": ["poisoning", "overdose", "call poison control", "emergency"],
+      "content": "1) Call emergency services or local poison control immediately. 2) Do not induce vomiting unless instructed by professionals. 3) If the person is unconscious or not breathing normally, call EMS and start CPR. 4) If safe, keep the container/label to share details with responders.",
+      "source_hint": "Poison control general guidance"
+    },
+    {
+      "id": "fa_027_eye_chemical_exposure",
+      "title": "Chemical in the Eye",
+      "scenario": "A chemical splashed into someone’s eye.",
+      "keywords": ["chemical burn", "eye", "flush", "irrigation"],
+      "content": "1) Start rinsing the eye immediately with clean running water. 2) Keep flushing for at least 15 minutes. 3) Remove contact lenses while rinsing if possible. 4) Call emergency services or seek urgent medical care. 5) Avoid rubbing the eye.",
+      "source_hint": "First aid chemical exposure guidance"
+    },
+    {
+      "id": "fa_028_drowning_rescue",
+      "title": "Drowning / Near-Drowning",
+      "scenario": "Someone is pulled from water and may not be breathing.",
+      "keywords": ["drowning", "water rescue", "CPR", "emergency"],
+      "content": "1) Ensure your own safety; do not enter dangerous water. 2) Call emergency services. 3) If the person is unresponsive and not breathing normally, start CPR. 4) If trained, give rescue breaths as soon as possible. 5) Keep them warm and monitor until EMS arrives.",
+      "source_hint": "Water safety + CPR training guidance"
+    },
+    {
+      "id": "fa_029_hypothermia",
+      "title": "Hypothermia (Cold Exposure)",
+      "scenario": "A person is very cold, shivering, confused after being outside in cold weather.",
+      "keywords": ["hypothermia", "cold exposure", "rewarm", "emergency"],
+      "content": "1) Move to a warm, dry place. 2) Remove wet clothing and cover with blankets. 3) Warm the center of the body first (chest/neck/groin). 4) Give warm drinks only if fully awake. 5) Call emergency services for severe symptoms (confusion, drowsiness, weak breathing).",
+      "source_hint": "Public health cold exposure guidance"
+    },
+    {
+      "id": "fa_030_shock",
+      "title": "Shock (After Injury or Illness)",
+      "scenario": "A person is pale, clammy, weak, dizzy after a serious event.",
+      "keywords": ["shock", "pale", "clammy", "trauma", "first aid"],
+      "content": "1) Call emergency services. 2) Lay the person down and keep them warm. 3) If no suspected spinal injury, raise legs slightly. 4) Do not give food or drink. 5) Monitor breathing and be ready to start CPR if needed.",
+      "source_hint": "First aid shock guidance"
+    },
+  {
+    "id": "fa_032_eye_injury_object",
+    "title": "Foreign Object in the Eye",
+    "scenario": "Something enters a person’s eye causing irritation.",
+    "keywords": ["eye injury", "foreign object", "irritation", "first aid"],
+    "content": "1) Do not rub the eye. 2) Ask the person to blink several times. 3) Rinse gently with clean water if possible. 4) Do not attempt to remove embedded objects. 5) Seek medical help if pain or vision problems persist.",
+    "source_hint": "Eye first aid basics"
+  },
+  {
+    "id": "fa_034_object_in_ear",
+    "title": "Object Stuck in the Ear",
+    "scenario": "A small object is lodged in the ear.",
+    "keywords": ["ear injury", "foreign object", "first aid"],
+    "content": "1) Do not insert tools or fingers into the ear. 2) If the object is visible and easily removable, gently tilt the head. 3) Do not flush with water unless instructed. 4) Seek medical help if pain, bleeding, or hearing loss occurs.",
+    "source_hint": "ENT first aid guidance"
+  },
+  {
+    "id": "fa_038_insect_sting",
+    "title": "Insect Sting",
+    "scenario": "A person is stung by a bee or wasp.",
+    "keywords": ["insect sting", "bee sting", "allergic reaction"],
+    "content": "1) Remove the stinger by scraping (do not squeeze). 2) Wash the area with soap and water. 3) Apply a cold pack to reduce swelling. 4) Monitor for allergic reactions. 5) Call emergency services if breathing difficulty or swelling of face occurs.",
+    "source_hint": "First aid insect sting guidance"
+  },
+  {
+    "id": "fa_040_snake_bite",
+    "title": "Snake Bite",
+    "scenario": "Someone is bitten by a snake.",
+    "keywords": ["snake bite", "venom", "emergency"],
+    "content": "1) Call emergency services immediately. 2) Keep the person calm and still. 3) Immobilize the bitten limb at heart level. 4) Do not cut, suck, or apply ice. 5) Monitor breathing until help arrives.",
+    "source_hint": "Emergency snake bite guidance"
+  },
+  {
+    "id": "fa_041_animal_bite",
+    "title": "Animal Bite",
+    "scenario": "A dog or animal bites a person.",
+    "keywords": ["animal bite", "dog bite", "first aid"],
+    "content": "1) Wash the wound thoroughly with soap and water. 2) Control bleeding with pressure. 3) Cover with a clean dressing. 4) Seek medical care due to infection and rabies risk. 5) Report the bite if required.",
+    "source_hint": "Public health bite guidance"
+  },
+  {
+    "id": "fa_043_vomiting",
+    "title": "Vomiting (Non-Emergency)",
+    "scenario": "A person is vomiting but conscious.",
+    "keywords": ["vomiting", "nausea", "first aid"],
+    "content": "1) Help the person sit or lie on their side. 2) Offer small sips of water when vomiting stops. 3) Avoid strong smells or food initially. 4) Seek medical help if vomiting is persistent or severe.",
+    "source_hint": "General first aid guidance"
+  },
+  {
+    "id": "fa_044_diarrhea",
+    "title": "Diarrhea",
+    "scenario": "Frequent loose stools cause weakness.",
+    "keywords": ["diarrhea", "dehydration", "fluids"],
+    "content": "1) Encourage frequent small sips of fluids. 2) Use oral rehydration solutions if available. 3) Avoid fatty or spicy foods. 4) Seek medical care if symptoms persist or signs of dehydration appear.",
+    "source_hint": "Public health guidance"
+  },
+  {
+    "id": "fa_045_dehydration",
+    "title": "Dehydration",
+    "scenario": "A person shows dry mouth, fatigue, or dark urine.",
+    "keywords": ["dehydration", "fluids", "heat"],
+    "content": "1) Encourage drinking water or oral rehydration solutions. 2) Rest in a cool place. 3) Avoid alcohol or caffeine. 4) Seek medical care if severe confusion or inability to drink occurs.",
+    "source_hint": "Public health hydration guidance"
+  },
+  {
+    "id": "fa_046_motion_sickness",
+    "title": "Motion Sickness",
+    "scenario": "A person feels nauseated during travel.",
+    "keywords": ["motion sickness", "nausea", "travel"],
+    "content": "1) Have the person look at the horizon. 2) Encourage fresh air. 3) Avoid reading or screens. 4) Use motion sickness remedies if available. 5) Rest until symptoms pass.",
+    "source_hint": "General health guidance"
+  },
+  {
+    "id": "fa_047_fever",
+    "title": "Fever Management",
+    "scenario": "A person has a mild to moderate fever.",
+    "keywords": ["fever", "temperature", "first aid"],
+    "content": "1) Encourage rest and fluids. 2) Dress in light clothing. 3) Use fever-reducing medication if appropriate. 4) Seek medical care if fever is very high or persistent.",
+    "source_hint": "Public health fever guidance"
+  },
+  {
+    "id": "fa_048_child_fever_warning",
+    "title": "Fever in Children – When to Seek Help",
+    "scenario": "A child has a fever.",
+    "keywords": ["child fever", "pediatric", "emergency"],
+    "content": "Seek medical help if a child has difficulty breathing, seizures, persistent vomiting, rash with fever, or fever lasting more than 48 hours, especially in infants.",
+    "source_hint": "Pediatric health guidance"
+  },
+  {
+    "id": "fa_055_smoke_inhalation",
+    "title": "Smoke Inhalation",
+    "scenario": "A person inhales smoke during a fire.",
+    "keywords": ["smoke inhalation", "fire", "breathing"],
+    "content": "1) Move to fresh air immediately. 2) Call emergency services. 3) Loosen tight clothing. 4) Monitor breathing. 5) Seek medical care even if symptoms seem mild.",
+    "source_hint": "Fire safety guidance"
+  },
+  {
+    "id": "fa_056_near_fainting",
+    "title": "Near Fainting (Presyncope)",
+    "scenario": "A person feels lightheaded and about to faint.",
+    "keywords": ["dizziness", "presyncope", "first aid"],
+    "content": "1) Help them sit or lie down. 2) Elevate legs if possible. 3) Encourage slow breathing. 4) Provide fluids if appropriate. 5) Seek medical help if symptoms persist.",
+    "source_hint": "First aid guidance"
+  },
+  {
+    "id": "fa_057_medication_error",
+    "title": "Medication Error",
+    "scenario": "Someone may have taken the wrong medication or dose.",
+    "keywords": ["medication error", "overdose", "first aid"],
+    "content": "1) Call poison control or emergency services immediately. 2) Do not induce vomiting unless instructed. 3) Keep medication containers for reference. 4) Monitor symptoms until help arrives.",
+    "source_hint": "Poison control guidance"
+  },
+  {
+    "id": "fa_058_chest_pain_unclear",
+    "title": "Chest Pain of Unknown Cause",
+    "scenario": "A person has chest discomfort but is unsure why.",
+    "keywords": ["chest pain", "emergency", "heart"],
+    "content": "1) Treat chest pain as an emergency. 2) Call emergency services. 3) Keep the person calm and resting. 4) Monitor breathing and responsiveness. 5) Be ready to start CPR if collapse occurs.",
+    "source_hint": "Emergency response guidance"
+  },
+  {
+    "id": "fa_059_shortness_of_breath",
+    "title": "Shortness of Breath",
+    "scenario": "A person suddenly has difficulty breathing.",
+    "keywords": ["shortness of breath", "breathing difficulty", "emergency"],
+    "content": "1) Help them sit upright. 2) Loosen tight clothing. 3) Encourage slow breathing. 4) Call emergency services if breathing does not improve quickly.",
+    "source_hint": "Emergency breathing guidance"
+  },
+  {
+    "id": "fa_060_general_emergency_disclaimer",
+    "title": "Emergency First Aid Disclaimer",
+    "scenario": "General use for all emergency situations.",
+    "keywords": ["disclaimer", "emergency", "first aid"],
+    "content": "This information is for general first aid guidance only and does not replace professional medical care. Always call local emergency services in a life-threatening emergency.",
+    "source_hint": "Standard safety disclaimer"
+  },
+    {
+      "id": "fa_031_nosebleed",
+      "title": "Nosebleed (Epistaxis)",
+      "scenario": "Someone has a nosebleed.",
+      "keywords": ["nosebleed", "epistaxis", "bleeding", "first aid"],
+      "content": "1) Have the person sit upright and lean slightly forward. 2) Pinch the soft part of the nose for 10 minutes. 3) Encourage calm breathing through the mouth. 4) Do not tilt the head back. 5) Seek medical help if bleeding lasts longer than 20 minutes or follows injury.",
+      "source_hint": "General first aid guidance"
+    },
+    {
+      "id": "fa_033_tooth_knocked_out",
+      "title": "Knocked-Out Tooth (Avulsion)",
+      "scenario": "A permanent tooth is knocked out during an accident.",
+      "keywords": ["tooth avulsion", "dental emergency", "first aid"],
+      "content": "1) Handle the tooth by the crown only (not the root). 2) Rinse gently with clean water if dirty. 3) Try to place it back in the socket if possible. 4) If not, store in milk or saliva. 5) Seek urgent dental care immediately.",
+      "source_hint": "Dental first aid guidance"
+    },
+    {
+      "id": "fa_035_object_in_nose",
+      "title": "Object Stuck in the Nose",
+      "scenario": "A child puts an object into their nose.",
+      "keywords": ["nose object", "child first aid", "foreign body"],
+      "content": "1) Ask the person to breathe through the mouth. 2) Do not probe the nose with tools. 3) Encourage gentle blowing if age-appropriate. 4) Seek medical care if the object cannot be removed easily.",
+      "source_hint": "Pediatric first aid basics"
+    },
+    {
+      "id": "fa_036_minor_cut",
+      "title": "Minor Cuts and Scrapes",
+      "scenario": "A small cut or scrape occurs.",
+      "keywords": ["cut", "scrape", "wound care", "first aid"],
+      "content": "1) Wash hands before treating. 2) Clean the wound with clean water. 3) Stop bleeding with gentle pressure. 4) Apply an adhesive bandage if needed. 5) Watch for signs of infection.",
+      "source_hint": "Basic wound care guidance"
+    },
+    {
+      "id": "fa_037_blister",
+      "title": "Blister Care",
+      "scenario": "A blister forms on the skin.",
+      "keywords": ["blister", "skin injury", "first aid"],
+      "content": "1) Do not pop the blister. 2) Clean the area gently. 3) Cover with a protective bandage if needed. 4) Keep clean and dry. 5) Seek medical care if signs of infection appear.",
+      "source_hint": "Skin care first aid guidance"
+    },
+    {
+      "id": "fa_039_tick_bite",
+      "title": "Tick Bite",
+      "scenario": "A tick is attached to the skin.",
+      "keywords": ["tick bite", "insect bite", "first aid"],
+      "content": "1) Use fine-tipped tweezers to grasp the tick close to the skin. 2) Pull upward steadily without twisting. 3) Clean the area with soap and water. 4) Monitor for rash or fever. 5) Seek medical advice if symptoms develop.",
+      "source_hint": "Public health tick guidance"
+    },
+    {
+      "id": "fa_042_food_poisoning",
+      "title": "Food Poisoning",
+      "scenario": "Someone has nausea, vomiting, or diarrhea after eating.",
+      "keywords": ["food poisoning", "vomiting", "diarrhea"],
+      "content": "1) Encourage rest and small sips of clear fluids. 2) Avoid solid food initially. 3) Monitor for dehydration. 4) Seek medical care if severe symptoms or blood in stool occurs.",
+      "source_hint": "Public health food safety guidance"
+    },
+    {
+      "id": "fa_049_panic_attack",
+      "title": "Panic Attack",
+      "scenario": "A person is breathing fast and feels intense fear.",
+      "keywords": ["panic attack", "anxiety", "breathing"],
+      "content": "1) Stay calm and reassure the person. 2) Encourage slow, deep breathing. 3) Move to a quiet place. 4) Do not dismiss their feelings. 5) Seek medical help if symptoms mimic a heart attack.",
+      "source_hint": "Mental health first aid guidance"
+    },
+    {
+      "id": "fa_050_fall_elderly",
+      "title": "Fall in an Elderly Person",
+      "scenario": "An older adult falls and is on the ground.",
+      "keywords": ["fall", "elderly", "injury"],
+      "content": "1) Do not rush to move them. 2) Ask about pain or dizziness. 3) Call emergency services if injury is suspected. 4) Keep them warm and comfortable. 5) Monitor until help arrives.",
+      "source_hint": "Elder care first aid guidance"
+    },
+    {
+      "id": "fa_051_back_pain_sudden",
+      "title": "Sudden Severe Back Pain",
+      "scenario": "A person experiences sudden severe back pain.",
+      "keywords": ["back pain", "injury", "first aid"],
+      "content": "1) Encourage rest in a comfortable position. 2) Avoid sudden movements. 3) Apply cold or heat if helpful. 4) Seek medical help if pain is severe, with weakness, or numbness.",
+      "source_hint": "General health guidance"
+    },
+    {
+      "id": "fa_052_leg_cramp",
+      "title": "Muscle Cramp",
+      "scenario": "A sudden painful muscle cramp occurs.",
+      "keywords": ["muscle cramp", "leg cramp", "first aid"],
+      "content": "1) Gently stretch the affected muscle. 2) Massage the area. 3) Encourage hydration. 4) Rest until pain eases.",
+      "source_hint": "General first aid guidance"
+    },
+    {
+      "id": "fa_053_frostbite",
+      "title": "Frostbite",
+      "scenario": "Skin becomes numb, pale, or hard from cold exposure.",
+      "keywords": ["frostbite", "cold injury", "first aid"],
+      "content": "1) Move to a warm place. 2) Warm affected area gradually using body heat or warm water. 3) Do not rub or massage. 4) Seek medical care for severe cases.",
+      "source_hint": "Cold injury first aid guidance"
+    },
+    {
+      "id": "fa_054_sunburn",
+      "title": "Sunburn",
+      "scenario": "Skin becomes red and painful after sun exposure.",
+      "keywords": ["sunburn", "UV exposure", "first aid"],
+      "content": "1) Move out of the sun. 2) Cool the skin with cool showers or compresses. 3) Apply moisturizing lotion. 4) Drink fluids. 5) Seek medical help if blistering or fever occurs.",
+      "source_hint": "Public health sun safety guidance"
+    },
+        {
+          "id": "fa_061_sharp_object_wound",
+          "title": "Wound with Embedded Sharp Object",
+          "scenario": "A sharp object is stuck in the body after an accident.",
+          "keywords": ["embedded object", "impalement", "wound", "first aid"],
+          "content": "1) Do not remove the object. 2) Call emergency services immediately. 3) Stabilize the object with bulky dressings to prevent movement. 4) Control bleeding around the object with gentle pressure. 5) Monitor breathing and keep the person still.",
+          "source_hint": "Trauma first aid guidance"
+        },
+        {
+          "id": "fa_062_impalement_large",
+          "title": "Large Impalement Injury",
+          "scenario": "A large object is impaled through the body.",
+          "keywords": ["impalement", "trauma", "emergency"],
+          "content": "1) Call emergency services immediately. 2) Do not attempt to remove the object. 3) Keep the person as still as possible. 4) Control bleeding around the wound if safe. 5) Treat for shock until help arrives.",
+          "source_hint": "Emergency trauma guidance"
+        },
+        {
+          "id": "fa_063_burn_chemical_skin",
+          "title": "Chemical Burn on Skin",
+          "scenario": "A chemical spills onto the skin.",
+          "keywords": ["chemical burn", "skin exposure", "first aid"],
+          "content": "1) Protect yourself first. 2) Remove contaminated clothing if safe. 3) Rinse the skin with running water for at least 15 minutes. 4) Call emergency services for severe burns. 5) Do not apply creams unless instructed.",
+          "source_hint": "Chemical exposure first aid guidance"
+        },
+        {
+          "id": "fa_064_crush_injury",
+          "title": "Crush Injury",
+          "scenario": "A limb is crushed by heavy object.",
+          "keywords": ["crush injury", "trauma", "emergency"],
+          "content": "1) Call emergency services immediately. 2) Do not remove the crushing object unless necessary for safety. 3) Control bleeding if present. 4) Keep the person still and warm. 5) Monitor breathing until help arrives.",
+          "source_hint": "Emergency trauma guidance"
+        },
+        {
+          "id": "fa_065_near_drowning_delayed",
+          "title": "After Near-Drowning (Delayed Symptoms)",
+          "scenario": "A person was rescued from water and now seems okay.",
+          "keywords": ["near drowning", "secondary drowning", "monitoring"],
+          "content": "1) Seek medical evaluation even if the person seems fine. 2) Monitor for coughing, chest pain, fever, or breathing difficulty. 3) Keep the person warm and resting. 4) Call emergency services if symptoms develop.",
+          "source_hint": "Water safety medical guidance"
+        },
+        {
+          "id": "fa_066_high_altitude_sickness",
+          "title": "High Altitude Sickness",
+          "scenario": "A person has headache, nausea, or dizziness at high altitude.",
+          "keywords": ["altitude sickness", "mountains", "hypoxia"],
+          "content": "1) Stop ascent immediately. 2) Rest and descend if possible. 3) Encourage fluids. 4) Seek medical help if symptoms worsen or confusion occurs.",
+          "source_hint": "Travel health guidance"
+        },
+        {
+          "id": "fa_067_deep_cut_stitches",
+          "title": "Deep Cut Needing Medical Care",
+          "scenario": "A deep cut with visible tissue or heavy bleeding.",
+          "keywords": ["deep cut", "laceration", "stitches"],
+          "content": "1) Apply firm pressure to stop bleeding. 2) Call emergency services or seek urgent care. 3) Do not close the wound with glue or tape if deep. 4) Keep the area clean and still until help arrives.",
+          "source_hint": "Wound care guidance"
+        },
+        {
+          "id": "fa_068_open_chest_wound",
+          "title": "Open Chest Wound",
+          "scenario": "A penetrating injury to the chest.",
+          "keywords": ["open chest wound", "sucking chest wound", "trauma"],
+          "content": "1) Call emergency services immediately. 2) Cover the wound with a clean, airtight dressing if available. 3) Secure on three sides if trained. 4) Keep the person seated if breathing is difficult. 5) Monitor breathing continuously.",
+          "source_hint": "Advanced first aid / trauma guidance"
+        },
+        {
+          "id": "fa_069_abdominal_injury",
+          "title": "Serious Abdominal Injury",
+          "scenario": "A strong blow to the abdomen causes severe pain.",
+          "keywords": ["abdominal injury", "trauma", "internal bleeding"],
+          "content": "1) Call emergency services. 2) Have the person lie still with knees slightly bent. 3) Do not give food or drink. 4) Watch for signs of shock. 5) Keep warm until help arrives.",
+          "source_hint": "Trauma first aid guidance"
+        },
+        {
+          "id": "fa_070_internal_bleeding",
+          "title": "Suspected Internal Bleeding",
+          "scenario": "Weakness, pale skin, abdominal pain after injury.",
+          "keywords": ["internal bleeding", "shock", "trauma"],
+          "content": "1) Call emergency services immediately. 2) Lay the person down and keep them still. 3) Do not give food or drink. 4) Monitor breathing and consciousness. 5) Treat for shock.",
+          "source_hint": "Emergency trauma guidance"
+        },
+        {
+          "id": "fa_071_eye_vision_loss",
+          "title": "Sudden Vision Loss",
+          "scenario": "A person suddenly loses vision in one or both eyes.",
+          "keywords": ["vision loss", "eye emergency", "stroke"],
+          "content": "1) Treat as a medical emergency. 2) Call emergency services immediately. 3) Keep the person calm and seated. 4) Do not press on the eyes. 5) Monitor for other stroke symptoms.",
+          "source_hint": "Emergency ophthalmology guidance"
+        },
+        {
+          "id": "fa_072_facial_injury",
+          "title": "Facial Injury",
+          "scenario": "An injury to the face causes swelling or bleeding.",
+          "keywords": ["facial injury", "bleeding", "first aid"],
+          "content": "1) Apply gentle pressure to control bleeding. 2) Use cold packs to reduce swelling. 3) Keep head elevated if possible. 4) Seek medical care for severe pain or deformity.",
+          "source_hint": "First aid facial injury guidance"
+        },
+        {
+          "id": "fa_073_jaw_injury",
+          "title": "Suspected Jaw Injury",
+          "scenario": "Pain or difficulty opening the mouth after trauma.",
+          "keywords": ["jaw injury", "fracture", "first aid"],
+          "content": "1) Support the jaw with a bandage or cloth. 2) Apply cold packs to reduce swelling. 3) Do not attempt to realign the jaw. 4) Seek urgent medical or dental care.",
+          "source_hint": "First aid trauma guidance"
+        },
+        {
+          "id": "fa_074_eye_blow",
+          "title": "Blow to the Eye",
+          "scenario": "A direct hit to the eye during sports or accident.",
+          "keywords": ["eye injury", "blunt trauma", "vision"],
+          "content": "1) Apply a cold pack gently around the eye. 2) Do not apply pressure directly to the eyeball. 3) Seek medical care if vision changes, pain, or swelling increases.",
+          "source_hint": "Sports injury guidance"
+        },
+        {
+          "id": "fa_075_headache_sudden_severe",
+          "title": "Sudden Severe Headache",
+          "scenario": "A sudden, extremely severe headache appears.",
+          "keywords": ["severe headache", "brain bleed", "stroke"],
+          "content": "1) Treat as a medical emergency. 2) Call emergency services immediately. 3) Keep the person resting quietly. 4) Do not give food or drink. 5) Monitor consciousness.",
+          "source_hint": "Emergency neurological guidance"
+        },
+        {
+          "id": "fa_076_confusion_sudden",
+          "title": "Sudden Confusion",
+          "scenario": "A person becomes suddenly confused or disoriented.",
+          "keywords": ["confusion", "stroke", "emergency"],
+          "content": "1) Call emergency services. 2) Keep the person calm and seated. 3) Check for FAST stroke signs. 4) Monitor breathing and responsiveness. 5) Do not leave them alone.",
+          "source_hint": "Emergency response guidance"
+        },
+        {
+          "id": "fa_077_heat_cramps",
+          "title": "Heat Cramps",
+          "scenario": "Painful muscle cramps during or after exercise in heat.",
+          "keywords": ["heat cramps", "exercise", "dehydration"],
+          "content": "1) Stop activity and move to a cool place. 2) Stretch and massage muscles gently. 3) Provide water or electrolyte drink. 4) Rest until cramps stop.",
+          "source_hint": "Heat illness guidance"
+        },
+        {
+          "id": "fa_078_swallowed_object",
+          "title": "Swallowed Object",
+          "scenario": "A person accidentally swallows a non-food object.",
+          "keywords": ["swallowed object", "foreign body", "first aid"],
+          "content": "1) Monitor for choking or breathing difficulty. 2) Do not induce vomiting. 3) Seek medical advice, especially for sharp objects or batteries. 4) Call emergency services if symptoms develop.",
+          "source_hint": "Emergency ingestion guidance"
+        },
+        {
+          "id": "fa_079_button_battery",
+          "title": "Button Battery Ingestion",
+          "scenario": "A child swallows a button battery.",
+          "keywords": ["button battery", "child emergency", "ingestion"],
+          "content": "1) Call emergency services immediately. 2) Do not give food or drink unless instructed. 3) Seek urgent medical care without delay. 4) Keep the battery packaging if available.",
+          "source_hint": "Pediatric emergency guidance"
+        },
+        {
+          "id": "fa_080_carbon_monoxide",
+          "title": "Carbon Monoxide Exposure",
+          "scenario": "A person is exposed to carbon monoxide gas.",
+          "keywords": ["carbon monoxide", "CO poisoning", "gas"],
+          "content": "1) Move to fresh air immediately. 2) Call emergency services. 3) Do not re-enter the area. 4) Monitor breathing and consciousness. 5) Seek medical evaluation even if symptoms improve.",
+          "source_hint": "Gas safety guidance"
+        },
+        {
+          "id": "fa_081_rabies_exposure",
+          "title": "Possible Rabies Exposure",
+          "scenario": "A person is bitten or scratched by an unknown animal.",
+          "keywords": ["rabies", "animal bite", "emergency"],
+          "content": "1) Wash the wound thoroughly with soap and water. 2) Seek medical care immediately. 3) Report the incident to health authorities if required. 4) Do not delay treatment.",
+          "source_hint": "Public health rabies guidance"
+        },
+        {
+          "id": "fa_082_ear_bleeding",
+          "title": "Bleeding from the Ear",
+          "scenario": "Blood is coming from the ear after injury.",
+          "keywords": ["ear bleeding", "head injury", "trauma"],
+          "content": "1) Treat as a serious head injury. 2) Call emergency services immediately. 3) Do not block the ear. 4) Keep the person still and monitor breathing.",
+          "source_hint": "Head injury emergency guidance"
+        },
+        {
+          "id": "fa_083_eye_pain_severe",
+          "title": "Severe Eye Pain",
+          "scenario": "A person experiences intense eye pain.",
+          "keywords": ["eye pain", "eye emergency", "vision"],
+          "content": "1) Do not rub or press the eye. 2) Keep the eye covered lightly. 3) Seek urgent medical care. 4) Monitor for vision changes.",
+          "source_hint": "Ophthalmic emergency guidance"
+        },
+        {
+          "id": "fa_084_rectal_bleeding",
+          "title": "Rectal Bleeding",
+          "scenario": "Blood appears in stool or from rectum.",
+          "keywords": ["rectal bleeding", "internal bleeding", "emergency"],
+          "content": "1) Seek medical evaluation. 2) Call emergency services if bleeding is heavy or accompanied by weakness. 3) Do not ignore ongoing bleeding.",
+          "source_hint": "Medical emergency guidance"
+        },
+        {
+          "id": "fa_085_urinary_retention",
+          "title": "Inability to Urinate",
+          "scenario": "A person cannot urinate and has severe discomfort.",
+          "keywords": ["urinary retention", "pain", "emergency"],
+          "content": "1) Seek urgent medical care. 2) Do not force urination. 3) Monitor pain and swelling. 4) Call emergency services if severe distress occurs.",
+          "source_hint": "Medical emergency guidance"
+        },
+        {
+          "id": "fa_086_severe_abdominal_pain",
+          "title": "Severe Abdominal Pain",
+          "scenario": "Sudden intense abdominal pain occurs.",
+          "keywords": ["abdominal pain", "emergency", "appendicitis"],
+          "content": "1) Treat as a medical emergency. 2) Call emergency services. 3) Keep the person still and comfortable. 4) Do not give food or drink.",
+          "source_hint": "Emergency abdominal guidance"
+        },
+        {
+          "id": "fa_087_testicular_pain",
+          "title": "Sudden Testicular Pain",
+          "scenario": "Sudden severe pain in the testicles.",
+          "keywords": ["testicular pain", "torsion", "emergency"],
+          "content": "1) Seek emergency medical care immediately. 2) Do not delay treatment. 3) Keep the person resting. 4) Avoid pressure on the area.",
+          "source_hint": "Urologic emergency guidance"
+        },
+        {
+          "id": "fa_088_pregnancy_bleeding",
+          "title": "Bleeding During Pregnancy",
+          "scenario": "A pregnant person experiences bleeding.",
+          "keywords": ["pregnancy bleeding", "obstetric emergency"],
+          "content": "1) Seek urgent medical care. 2) Call emergency services if bleeding is heavy or accompanied by pain. 3) Keep the person resting and calm.",
+          "source_hint": "Obstetric emergency guidance"
+        },
+        {
+          "id": "fa_089_sudden_collapse_unknown",
+          "title": "Sudden Collapse (Unknown Cause)",
+          "scenario": "A person collapses suddenly without clear reason.",
+          "keywords": ["collapse", "unknown cause", "emergency"],
+          "content": "1) Call emergency services immediately. 2) Check responsiveness and breathing. 3) Start CPR if unresponsive and not breathing normally. 4) Use AED if available.",
+          "source_hint": "Emergency response guidance"
+        },
+        {
+          "id": "fa_090_emergency_priority",
+          "title": "When in Doubt, Treat as Emergency",
+          "scenario": "Unsure if a situation is serious.",
+          "keywords": ["emergency decision", "first aid"],
+          "content": "If you are unsure whether a situation is serious, assume it is an emergency. Call local emergency services, stay with the person, and follow instructions from professionals.",
+          "source_hint": "General safety principle"
+        },
+{
+        "id": "fa_baby_001_infant_choking",
+        "title": "Choking - Infant (Under 1 Year)",
+        "scenario": "Baby is choking, cannot cry or breathe, face turning blue.",
+        "keywords": ["choking", "infant", "baby", "back blows", "chest thrusts"],
+        "content": "1) Sit or kneel with the infant face down along your forearm, supporting the head/jaw. 2) Give 5 firm back blows between shoulder blades. 3) Flip infant face up on forearm. 4) Give 5 chest thrusts with two fingers in center of chest (1.5 inches deep). 5) Repeat until object clears or baby becomes unconscious.",
+        "source_hint": "MSD Manual (Consumer) / Choking"
+      },
+      {
+        "id": "fa_baby_002_child_choking",
+        "title": "Choking - Child (Over 1 Year)",
+        "scenario": "Child is clutching throat, cannot speak or breathe.",
+        "keywords": ["choking", "child", "heimlich", "abdominal thrusts"],
+        "content": "1) Stand behind the child and wrap arms around waist. 2) Make a fist above the navel. 3) Grasp fist with other hand. 4) Give quick, upward abdominal thrusts (Heimlich maneuver). 5) Continue until object is expelled or child becomes unconscious.",
+        "source_hint": "MSD Manual (Consumer) / Choking"
+      },
+      {
+        "id": "fa_baby_003_febrile_seizure",
+        "title": "Febrile Seizure (Fever Fit)",
+        "scenario": "Child with high fever starts shaking or convulsing.",
+        "keywords": ["seizure", "fever", "convulsion", "baby", "shaking"],
+        "content": "1) Place child on floor on their side (recovery position). 2) Do NOT put anything in mouth. 3) Loosen clothing around neck. 4) Time the seizure. 5) Call emergency services if it lasts >5 minutes. 6) Do not place in bathtub to cool (risk of drowning/shock).",
+        "source_hint": "MSD Manual (Consumer) / Seizures in Children"
+      },
+      {
+        "id": "fa_baby_004_croup_attack",
+        "title": "Croup (Barking Cough) Attack",
+        "scenario": "Child wakes up with harsh barking cough and trouble breathing.",
+        "keywords": ["croup", "cough", "barking", "stridor", "breathing"],
+        "content": "1) Keep child calm (crying worsens breathing). 2) Sit in a steamy bathroom (run hot shower) for 15-20 mins. 3) Or take child into cool night air. 4) Call emergency services if child struggles to breathe, drools excessively, or turns blue.",
+        "source_hint": "MSD Manual (Consumer) / Croup"
+      },
+      {
+        "id": "fa_baby_005_nosebleed",
+        "title": "Nosebleed (Epistaxis) in Child",
+        "scenario": "Child has a bleeding nose.",
+        "keywords": ["nosebleed", "blood", "nose", "pinch"],
+        "content": "1) Have child sit up and lean head slightly FORWARD (not back). 2) Pinch the soft part of the nose shut for 10 full minutes without checking. 3) Apply ice pack to bridge of nose. 4) Seek medical help if bleeding doesn't stop after 2 attempts (20 mins).",
+        "source_hint": "MSD Manual (Consumer) / Nosebleeds"
+      },
+      {
+        "id": "fa_baby_006_poisoning_swallowed",
+        "title": "Swallowed Poison / Medication",
+        "scenario": "Child swallowed cleaning fluid or pills.",
+        "keywords": ["poison", "swallowed", "toxin", "pills", "chemical"],
+        "content": "1) If unconscious or not breathing, call 911 immediately. 2) If awake, call Poison Control (1-800-222-1222) immediately. 3) Do NOT induce vomiting unless told to by professionals. 4) Rinse mouth if visible residue. 5) Keep the bottle/container for identification.",
+        "source_hint": "MSD Manual (Consumer) / Poisoning"
+      },
+      {
+        "id": "fa_baby_007_burn_thermal",
+        "title": "Thermal Burn (Heat/Liquid)",
+        "scenario": "Child touched hot stove or spilled hot water.",
+        "keywords": ["burn", "scald", "blister", "hot water"],
+        "content": "1) Remove child from heat source. 2) Run cool (not cold) tap water over burn for 10-20 minutes. 3) Do NOT pop blisters. 4) Cover with clean, non-stick bandage. 5) Seek medical care for burns on face, hands, genitals, or if larger than child's hand.",
+        "source_hint": "MSD Manual (Consumer) / Burns"
+      },
+      {
+        "id": "fa_baby_008_head_bump",
+        "title": "Head Injury (Minor vs Major)",
+        "scenario": "Child fell and hit head on floor.",
+        "keywords": ["head injury", "fall", "concussion", "bump"],
+        "content": "1) Apply ice wrapped in cloth for swelling. 2) Monitor for 24 hours. 3) Emergency signs (Call 911): Vomiting >2 times, different sized pupils, confusion, inability to wake up, seizure, or clear fluid draining from nose/ears.",
+        "source_hint": "MSD Manual (Consumer) / Head Injuries"
+      },
+      {
+        "id": "fa_baby_009_tooth_knocked_out",
+        "title": "Knocked Out Permanent Tooth",
+        "scenario": "Child fell and permanent tooth came out.",
+        "keywords": ["tooth", "dental", "knocked out", "mouth"],
+        "content": "1) Pick up tooth by the crown (white part), NOT the root. 2) Rinse gently with milk or saline (do not scrub). 3) Try to reinsert into socket if possible. 4) If not, store in milk or child's saliva. 5) Go to dentist immediately (within 30-60 mins).",
+        "source_hint": "MSD Manual (Consumer) / Dental Emergencies"
+      },
+      {
+        "id": "fa_baby_010_bee_sting",
+        "title": "Bee Sting",
+        "scenario": "Child stung by bee, stinger visible.",
+        "keywords": ["sting", "bee", "allergy", "stinger"],
+        "content": "1) Scrape stinger out immediately with credit card or fingernail (do not pinch sac). 2) Wash with soap and water. 3) Apply ice pack. 4) Watch for anaphylaxis (trouble breathing, swelling face) -> Call 911 if observed.",
+        "source_hint": "MSD Manual (Consumer) / Insect Stings"
+      },
+      {
+        "id": "fa_baby_011_anaphylaxis_epipen",
+        "title": "Anaphylaxis (EpiPen Use)",
+        "scenario": "Child has severe allergic reaction and has an EpiPen.",
+        "keywords": ["allergy", "anaphylaxis", "epipen", "swelling", "breathing"],
+        "content": "1) Remove safety cap from auto-injector. 2) Swing and push tip firmly into outer thigh (listen for click). 3) Hold for 3-10 seconds (check device instructions). 4) Call 911 immediately. 5) Massage injection site.",
+        "source_hint": "MSD Manual (Consumer) / Allergic Reactions"
+      },
+      {
+        "id": "fa_baby_012_infant_cpr",
+        "title": "CPR - Infant (Under 1 Year)",
+        "scenario": "Infant is unresponsive and not breathing.",
+        "keywords": ["CPR", "infant", "baby", "cardiac arrest"],
+        "content": "1) Check responsiveness and breathing. 2) Give 30 chest compressions (2 fingers, center chest). 3) Open airway (slight tilt). 4) Give 2 gentle puffs of air (cover nose and mouth). 5) Repeat 30:2 ratio.",
+        "source_hint": "MSD Manual (Consumer) / CPR"
+      },
+      {
+        "id": "fa_baby_013_asthma_attack",
+        "title": "Asthma Attack (Child)",
+        "scenario": "Child is wheezing and gasping for air.",
+        "keywords": ["asthma", "wheezing", "inhaler", "breathing"],
+        "content": "1) Sit child upright (do not lie down). 2) Administer rescue inhaler (usually blue) with spacer: 1 puff every minute up to 4-10 puffs. 3) Keep child calm. 4) Call 911 if no improvement, lips turning blue, or struggling to speak.",
+        "source_hint": "MSD Manual (Consumer) / Asthma"
+      },
+      {
+        "id": "fa_baby_014_foreign_object_ear",
+        "title": "Object in Ear",
+        "scenario": "Child put a bead or bean in their ear.",
+        "keywords": ["ear", "object", "stuck", "bead"],
+        "content": "1) Do not probe with cotton swab (pushes it deeper). 2) If insect: float out with oil. 3) If button battery: seek EMERGENCY care (burn risk). 4) Otherwise, seek medical professional for removal.",
+        "source_hint": "MSD Manual (Consumer) / Objects in Ear"
+      },
+      {
+        "id": "fa_baby_015_finger_pinch",
+        "title": "Finger Smashed in Door",
+        "scenario": "Child's finger caught in door jamb.",
+        "keywords": ["finger", "pinch", "door", "fracture"],
+        "content": "1) Check for amputation or deep cut. 2) Apply ice pack wrapped in cloth to reduce swelling. 3) If blood under nail is causing severe pressure/pain, seek medical care. 4) If finger is crooked or unable to move, suspect fracture -> X-ray.",
+        "source_hint": "MSD Manual (Consumer) / Finger Injuries"
+      },
+      {
+        "id": "fa_baby_016_dehydration_signs",
+        "title": "Dehydration in Infants",
+        "scenario": "Baby has diarrhea/vomiting, diaper is dry.",
+        "keywords": ["dehydration", "diaper", "vomiting", "flu"],
+        "content": "1) Check for signs: No wet diaper for 6+ hours, dry mouth, no tears when crying, sunken fontanelle (soft spot). 2) Give pediatric electrolyte solution (Pedialyte) in small, frequent sips. 3) Avoid plain water for infants. 4) Seek medical help if lethargic.",
+        "source_hint": "MSD Manual (Consumer) / Dehydration"
+      },
+      {
+        "id": "fa_baby_017_eye_chemical",
+        "title": "Chemical in Eye",
+        "scenario": "Child got cleaning spray or soap in eye.",
+        "keywords": ["eye", "chemical", "flush", "burning"],
+        "content": "1) Flush eye with lukewarm tap water immediately. 2) Hold eyelid open and flush for at least 15-20 minutes. 3) Tilt head so chemical runs away from other eye. 4) Call Poison Control or seek emergency care.",
+        "source_hint": "MSD Manual (Consumer) / Eye Injuries"
+      },
+      {
+        "id": "fa_baby_018_splinter_removal",
+        "title": "Splinter Removal",
+        "scenario": "Child has wood splinter in hand.",
+        "keywords": ["splinter", "wood", "tweezer"],
+        "content": "1) Wash area with soap and water. 2) Sterilize tweezers with alcohol. 3) Pull splinter out in the direction it entered. 4) Apply antibiotic ointment and bandage. 5) If deep or breaks off, seek medical help.",
+        "source_hint": "MSD Manual (Consumer) / Wounds"
+      },
+      {
+        "id": "fa_baby_019_sunburn_child",
+        "title": "Severe Sunburn",
+        "scenario": "Child is red, hot, and in pain after sun exposure.",
+        "keywords": ["sunburn", "skin", "blister", "aloe"],
+        "content": "1) Get out of sun immediately. 2) Apply cool compresses or cool bath. 3) Use aloe vera gel or moisturizer. 4) Encourage fluids. 5) If blistering occurs or child has fever/chills (sun poisoning), seek medical care.",
+        "source_hint": "MSD Manual (Consumer) / Sunburn"
+      },
+      {
+        "id": "fa_baby_020_diaper_rash_severe",
+        "title": "Severe Diaper Rash (Infection)",
+        "scenario": "Diaper area is bright red, bleeding, or has pustules.",
+        "keywords": ["diaper rash", "yeast", "infection", "baby"],
+        "content": "1) Keep area clean and dry. 2) Allow air time (diaper free). 3) Apply zinc oxide barrier cream. 4) If rash is bright red with satellite spots (yeast) or oozing, see pediatrician for prescription cream.",
+        "source_hint": "MSD Manual (Consumer) / Rashes"
+      },
+      {
+        "id": "fa_baby_021_vomiting_position",
+        "title": "Vomiting While Sleeping",
+        "scenario": "Child vomits while lying in bed.",
+        "keywords": ["vomit", "sleep", "choking", "aspiration"],
+        "content": "1) Immediately turn child to their side or sit them up to prevent aspiration (choking on vomit). 2) Clean face and mouth. 3) Monitor breathing. 4) Do not give food/drink immediately after vomiting.",
+        "source_hint": "MSD Manual (Consumer) / Vomiting"
+      },
+      {
+        "id": "fa_baby_022_stranger_danger",
+        "title": "Safety: Stranger at Door",
+        "scenario": "Babysitter is home alone with kids, doorbell rings.",
+        "keywords": ["safety", "stranger", "door", "babysitting"],
+        "content": "1) Do not open the door. 2) Check through peephole or window. 3) Talk through the closed door ('We are busy'). 4) If suspicious, call parents or police. 5) Keep doors locked at all times.",
+        "source_hint": "Red Cross / Babysitter Safety"
+      },
+      {
+        "id": "fa_baby_023_fire_alarm",
+        "title": "Fire Alarm Activation",
+        "scenario": "Smoke detector goes off while babysitting.",
+        "keywords": ["fire", "alarm", "evacuation", "smoke"],
+        "content": "1) Get the children out of the house immediately (do not gather belongings). 2) Stay low if there is smoke. 3) Meet at the designated meeting spot outside. 4) Call 911 from outside. 5) Do not re-enter the house.",
+        "source_hint": "Red Cross / Fire Safety"
+      },
+      {
+        "id": "fa_baby_024_separation_anxiety",
+        "title": "Panic/Separation Anxiety",
+        "scenario": "Child is screaming uncontrollably after parents leave.",
+        "keywords": ["crying", "anxiety", "panic", "calming"],
+        "content": "1) Stay calm and reassuring. 2) Distract with a favorite toy or activity. 3) Acknowledge feelings ('I know you miss them'). 4) Do not get angry. 5) Ensure basic needs (hunger/tiredness) are met.",
+        "source_hint": "Red Cross / Child Care Behavior"
+      },
+      {
+        "id": "fa_baby_025_dog_bite",
+        "title": "Dog Bite",
+        "scenario": "Child bitten by family dog.",
+        "keywords": ["bite", "dog", "wound", "rabies"],
+        "content": "1) Wash wound immediately with soap and water for 5 minutes. 2) Control bleeding with pressure. 3) Apply antibiotic ointment and bandage. 4) Seek medical attention for any puncture wound (infection risk).",
+        "source_hint": "MSD Manual (Consumer) / Animal Bites"
+      },
+      {
+        "id": "fa_baby_026_object_in_nose",
+        "title": "Object in Nose",
+        "scenario": "Child put food or toy in nostril.",
+        "keywords": ["nose", "object", "stuck"],
+        "content": "1) Have child breathe through mouth. 2) Encourage child to blow nose gently. 3) 'Parent's Kiss' technique (blow into child's mouth while blocking clear nostril) may work. 4) Do not dig with tweezers. 5) Seek medical help if stuck.",
+        "source_hint": "MSD Manual (Consumer) / Objects in Nose"
+      },
+      {
+        "id": "fa_baby_027_electric_shock",
+        "title": "Electric Shock (Outlet)",
+        "scenario": "Child touched electrical outlet or chewed cord.",
+        "keywords": ["shock", "electric", "burn", "outlet"],
+        "content": "1) Do not touch child if still connected to source (turn off power first). 2) Check breathing and pulse. 3) Look for entry and exit burns. 4) Call 911 for any electrical shock (internal damage possible).",
+        "source_hint": "MSD Manual (Consumer) / Electrical Injuries"
+      },
+      {
+        "id": "fa_baby_028_hair_tourniquet",
+        "title": "Hair Tourniquet Syndrome",
+        "scenario": "Baby crying inconsolably, hair wrapped around toe.",
+        "keywords": ["hair", "toe", "tourniquet", "crying"],
+        "content": "1) Check toes, fingers, and penis if baby cries without reason. 2) If hair is wrapped tight, try to unwind. 3) If skin is cut or swollen, use hair removal cream (Depilatory) carefully to dissolve hair. 4) Seek medical help if circulation is cut off.",
+        "source_hint": "MSD Manual (Consumer) / Hair Tourniquet"
+      },
+      {
+        "id": "fa_baby_029_umbilical_care",
+        "title": "Umbilical Cord Care (Newborn)",
+        "scenario": "Navel area looks red or smells.",
+        "keywords": ["umbilical", "newborn", "infection", "belly button"],
+        "content": "1) Keep area clean and dry (sponge bath only until stump falls off). 2) Fold diaper down to avoid irritation. 3) If base is red, skin is hot, or there is foul discharge -> Call pediatrician (Omphalitis risk).",
+        "source_hint": "MSD Manual (Consumer) / Newborn Care"
+      },
+      {
+        "id": "fa_baby_030_sids_prevention",
+        "title": "Safe Sleep / SIDS Prevention",
+        "scenario": "Putting baby to sleep safely.",
+        "keywords": ["sleep", "SIDS", "crib", "safety"],
+        "content": "1) Place baby on Back to sleep (not stomach). 2) Use firm mattress with fitted sheet. 3) No pillows, blankets, or stuffed animals in crib. 4) Keep room cool. 5) Do not share a bed with the infant (co-sleeping risk).",
+        "source_hint": "MSD Manual (Consumer) / SIDS"
+      },
+{
+        "id": "fa_swim_001_drowning_rescue_breathing",
+        "title": "Drowning: Priority of Breaths",
+        "scenario": "Person pulled from water, not breathing.",
+        "keywords": ["drowning", "cpr", "breaths", "hypoxia"],
+        "content": "1) Remove from water safely. 2) Open airway. 3) Give 2 rescue breaths immediately (Hypoxia is the cause). 4) If chest rises, check pulse. 5) If no pulse, begin CPR (30 compressions, 2 breaths).",
+        "source_hint": "MSD Manual (Consumer) / Drowning"
+      },
+      {
+        "id": "fa_swim_002_dry_drowning",
+        "title": "Secondary/Dry Drowning",
+        "scenario": "Child inhaled water, seemed fine, now coughing hours later.",
+        "keywords": ["dry drowning", "secondary drowning", "coughing", "water"],
+        "content": "1) Monitor for 24 hours after near-drowning. 2) Watch for: persistent cough, fatigue, difficulty breathing, behavior changes. 3) Seek emergency care immediately if these occur (pulmonary edema risk).",
+        "source_hint": "MSD Manual (Consumer) / Drowning"
+      },
+      {
+        "id": "fa_swim_003_jellyfish_sting",
+        "title": "Jellyfish Sting",
+        "scenario": "Stung by jellyfish at beach.",
+        "keywords": ["jellyfish", "sting", "vinegar", "pain"],
+        "content": "1) Rinse with seawater (not fresh water). 2) Remove tentacles with tweezers. 3) Rinse with Vinegar (for most species). 4) Immerse in HOT water (113°F/45°C) for 20-45 mins for pain. 5) Do not use urine.",
+        "source_hint": "MSD Manual (Consumer) / Jellyfish"
+      },
+      {
+        "id": "fa_swim_004_stingray_injury",
+        "title": "Stingray Barb Injury",
+        "scenario": "Stepped on stingray, puncture wound in foot.",
+        "keywords": ["stingray", "barb", "ocean", "puncture"],
+        "content": "1) Immerse foot in HOT water (as hot as tolerable) immediately to break down venom. 2) Soak for 30-90 minutes. 3) Do not remove barb if deep/in chest. 4) Seek medical care for cleaning and tetanus shot.",
+        "source_hint": "MSD Manual (Consumer) / Marine Stings"
+      },
+      {
+        "id": "fa_swim_005_sea_urchin_spine",
+        "title": "Sea Urchin Spine Puncture",
+        "scenario": "Stepped on sea urchin, black spines in skin.",
+        "keywords": ["sea urchin", "spine", "foot", "puncture"],
+        "content": "1) Immerse in hot water to relieve pain. 2) Remove visible spines with tweezers. 3) Vinegar soaks may help dissolve fine spines. 4) Monitor for infection. 5) Deep spines may require surgical removal.",
+        "source_hint": "MSD Manual (Consumer) / Marine Stings"
+      },
+      {
+        "id": "fa_swim_006_hypothermia_water",
+        "title": "Hypothermia (Cold Water)",
+        "scenario": "Swimmer shivering violently, confused.",
+        "keywords": ["hypothermia", "cold", "shivering", "warming"],
+        "content": "1) Get out of water and remove wet clothes. 2) Wrap in warm, dry blankets (cover head). 3) Drink warm sweet liquids if alert. 4) Do not rub skin vigorously. 5) Seek medical help.",
+        "source_hint": "MSD Manual (Consumer) / Hypothermia"
+      },
+      {
+        "id": "fa_swim_007_heat_exhaustion_pool",
+        "title": "Heat Exhaustion at Pool",
+        "scenario": "Dizziness and nausea after hours in sun.",
+        "keywords": ["heat", "exhaustion", "sun", "dehydration"],
+        "content": "1) Move to shade or AC. 2) Lie down and elevate legs. 3) Drink cool water or sports drink. 4) Spray with cool water. 5) Call 911 if confusion develops (Heat Stroke).",
+        "source_hint": "MSD Manual (Consumer) / Heat Exhaustion"
+      },
+      {
+        "id": "fa_swim_008_cramp_water",
+        "title": "Muscle Cramp in Water",
+        "scenario": "Leg cramps while swimming deep water.",
+        "keywords": ["cramp", "swim", "float", "safety"],
+        "content": "1) Stop swimming stroke. 2) Roll to back and float. 3) Massage and stretch the muscle (pull toes to knee for calf). 4) Paddle to shore gently. 5) Signal for help if unable to make progress.",
+        "source_hint": "Red Cross / Swimming Safety"
+      },
+      {
+        "id": "fa_swim_009_rip_current",
+        "title": "Rip Current Escape",
+        "scenario": "Caught in a current pulling away from shore.",
+        "keywords": ["rip current", "ocean", "swim", "safety"],
+        "content": "1) Do not fight the current (do not swim towards shore). 2) Swim parallel to the shoreline until out of the current. 3) Once free, swim back to shore at an angle. 4) Float or tread water if exhausted.",
+        "source_hint": "Red Cross / Beach Safety"
+      },
+      {
+        "id": "fa_swim_010_reach_throw_bystander",
+        "title": "Rescue: Reach or Throw",
+        "scenario": "Seeing someone drown (Bystander).",
+        "keywords": ["rescue", "reach", "throw", "drowning"],
+        "content": "1) Yell for help/Call 911. 2) Do NOT enter water. 3) Reach with a pole/branch/towel while lying down. 4) Throw a floating object (life ring/cooler). 5) Pull person to safety.",
+        "source_hint": "Red Cross / Water Safety"
+      },
+      {
+        "id": "fa_swim_011_swimmers_ear",
+        "title": "Swimmer's Ear (Otitis Externa)",
+        "scenario": "Pain in ear after swimming.",
+        "keywords": ["ear", "infection", "pain", "swim"],
+        "content": "1) Dry ears thoroughly after swimming. 2) Tilt head to drain water. 3) Do not insert Q-tips. 4) Use over-the-counter drops if drum is not perforated. 5) See doctor for antibiotics if pain is severe.",
+        "source_hint": "MSD Manual (Consumer) / Ear Conditions"
+      },
+      {
+        "id": "fa_swim_012_coral_cut",
+        "title": "Coral Scrape/Cut",
+        "scenario": "Scraped against coral reef.",
+        "keywords": ["coral", "cut", "infection", "reef"],
+        "content": "1) Scrub vigorously with soap and water (coral dust causes infection). 2) Rinse with mixture of water and hydrogen peroxide. 3) Apply antibiotic ointment. 4) Watch for redness/swelling.",
+        "source_hint": "MSD Manual (Consumer) / Marine Wounds"
+      },
+      {
+        "id": "fa_swim_013_shallow_diving_injury",
+        "title": "Spinal Injury (Shallow Dive)",
+        "scenario": "Person dove into shallow water, not moving.",
+        "keywords": ["spinal", "diving", "neck", "paralysis"],
+        "content": "1) Call 911. 2) Do not move person from water unless drowning. 3) Keep head and neck completely still (manual stabilization). 4) Check breathing. 5) Wait for EMS.",
+        "source_hint": "MSD Manual (Consumer) / Spinal Injury"
+      },
+      {
+        "id": "fa_swim_014_hyperventilation_blackout",
+        "title": "Shallow Water Blackout",
+        "scenario": "Swimmer holding breath underwater passes out.",
+        "keywords": ["blackout", "holding breath", "drowning", "fainting"],
+        "content": "1) Rescue from water immediately. 2) Tap and shout to check responsiveness. 3) If not breathing, start rescue breaths. 4) Call 911. 5) Never play breath-holding games.",
+        "source_hint": "Red Cross / Swimmer Safety"
+      },
+      {
+        "id": "fa_swim_015_cold_shock",
+        "title": "Cold Shock Response",
+        "scenario": "Fell into freezing water, gasping.",
+        "keywords": ["cold shock", "gasping", "water", "ice"],
+        "content": "1) Try to keep head above water (gasp reflex causes water inhalation). 2) Calm breathing (1 minute). 3) Locate exit. 4) Get out before muscles fail (10 minutes). 5) Treat for hypothermia.",
+        "source_hint": "Red Cross / Cold Water Safety"
+      },
+      {
+        "id": "fa_swim_016_chlorine_eye",
+        "title": "Chlorine Eye Irritation",
+        "scenario": "Red, stinging eyes after pool.",
+        "keywords": ["eye", "chlorine", "pool", "redness"],
+        "content": "1) Rinse eyes with cool fresh water. 2) Use lubricating eye drops (artificial tears). 3) Do not rub eyes. 4) Wear goggles in future to prevent.",
+        "source_hint": "MSD Manual (Consumer) / Eye Irritation"
+      },
+      {
+        "id": "fa_swim_017_boat_propeller_injury",
+        "title": "Propeller Injury",
+        "scenario": "Swimmer hit by boat engine.",
+        "keywords": ["boat", "propeller", "bleeding", "cut"],
+        "content": "1) Remove from water immediately. 2) Apply direct pressure to stop severe bleeding (tourniquet if on limb and bleeding uncontrolled). 3) Call 911. 4) Treat for shock.",
+        "source_hint": "MSD Manual (Consumer) / Wounds"
+      },
+      {
+        "id": "fa_swim_018_lightning_water",
+        "title": "Lightning Safety at Pool/Beach",
+        "scenario": "Thunder heard while swimming.",
+        "keywords": ["lightning", "storm", "pool", "safety"],
+        "content": "1) Exit water immediately (water conducts electricity). 2) Move to a substantial building or hard-topped car. 3) Stay away from water/plumbing for 30 minutes after last thunder.",
+        "source_hint": "Red Cross / Weather Safety"
+      },
+      {
+        "id": "fa_swim_019_blue_green_algae",
+        "title": "Algae Bloom Exposure",
+        "scenario": "Swam in green scum, skin rash or nausea.",
+        "keywords": ["algae", "toxin", "rash", "lake"],
+        "content": "1) Shower immediately with soap and water to remove toxins. 2) Wash swimsuit. 3) If nausea, vomiting, or confusion occurs, seek medical help. 4) Keep pets away from water.",
+        "source_hint": "MSD Manual (Consumer) / Environmental Toxins"
+      },
+      {
+        "id": "fa_swim_020_river_current",
+        "title": "Caught in River Current",
+        "scenario": "Swept downstream by fast water.",
+        "keywords": ["river", "current", "rapids", "safety"],
+        "content": "1) Flip on back, feet pointing downstream (to push off rocks). 2) Keep head up. 3) Angle towards shore. 4) Do not try to stand up in fast current (foot entrapment risk).",
+        "source_hint": "Red Cross / River Safety"
+      },
+      {
+        "id": "fa_swim_021_life_jacket_fit",
+        "title": "Life Jacket Safety",
+        "scenario": "Checking if life jacket is safe.",
+        "keywords": ["life jacket", "PFD", "safety", "boating"],
+        "content": "1) Ensure it is US Coast Guard approved. 2) Fasten all clips/zippers. 3) Lift at shoulders: it should not rise above ears/chin. 4) Ensure proper weight rating.",
+        "source_hint": "Red Cross / Boating Safety"
+      },
+      {
+        "id": "fa_swim_022_alcohol_drowning",
+        "title": "Alcohol and Swimming",
+        "scenario": "Person drunk near water.",
+        "keywords": ["alcohol", "swimming", "risk", "drowning"],
+        "content": "1) Do not allow intoxicated person to swim or operate boat. 2) Alcohol impairs judgment and balance, increasing drowning risk significantly. 3) Watch closely; reaction times are slowed.",
+        "source_hint": "MSD Manual (Consumer) / Drowning Risks"
+      },
+      {
+        "id": "fa_swim_023_diving_safety",
+        "title": "Safe Diving Rules",
+        "scenario": "Wanting to dive into unknown water.",
+        "keywords": ["diving", "depth", "safety", "spinal"],
+        "content": "1) Never dive into above-ground pools. 2) Ensure water is at least 9 feet deep. 3) Check for underwater obstacles. 4) Enter feet first if unsure. 5) 'No Diving' signs must be obeyed.",
+        "source_hint": "Red Cross / Pool Safety"
+      },
+      {
+        "id": "fa_swim_024_drain_entrapment",
+        "title": "Pool Drain Entrapment",
+        "scenario": "Hair or limb caught in pool suction.",
+        "keywords": ["drain", "suction", "pool", "entrapment"],
+        "content": "1) Locate emergency shut-off switch for pump immediately. 2) Do not just pull (suction is too strong). 3) Break the seal by sliding fingers under the swimmer's body part. 4) Call 911.",
+        "source_hint": "Red Cross / Pool Safety"
+      },
+      {
+        "id": "fa_swim_025_beach_flags",
+        "title": "Beach Warning Flags",
+        "scenario": "Understanding flag colors at beach.",
+        "keywords": ["flag", "beach", "warning", "safety"],
+        "content": "1) Double Red: Water closed to public. 2) Red: High hazard (surf/currents). 3) Yellow: Medium hazard. 4) Green: Low hazard. 5) Purple: Dangerous marine life.",
+        "source_hint": "Red Cross / Beach Safety"
+      },
+      {
+        "id": "fa_swim_026_ice_rescue_self",
+        "title": "Fell Through Ice (Self-Rescue)",
+        "scenario": "Broke through frozen lake.",
+        "keywords": ["ice", "rescue", "frozen", "cold"],
+        "content": "1) Do not undress. 2) Lean forward onto solid ice and kick legs to swim out horizontally. 3) Do not stand up; roll away from the hole to distribute weight. 4) Crawl back to shore.",
+        "source_hint": "Red Cross / Ice Safety"
+      },
+      {
+        "id": "fa_swim_027_tsunami_sign",
+        "title": "Tsunami Natural Warning",
+        "scenario": "Water receding rapidly at beach.",
+        "keywords": ["tsunami", "ocean", "warning", "earthquake"],
+        "content": "1) If earthquake feels strong or lasts long, evacuate. 2) If ocean recedes unusually far (drawback), run to high ground immediately. 3) Do not wait for alert. 4) Stay away until officials say safe.",
+        "source_hint": "Red Cross / Disaster Safety"
+      },
+      {
+        "id": "fa_swim_028_surfer_head_injury",
+        "title": "Surfer Head Strike",
+        "scenario": "Surfer hit by board, dizzy.",
+        "keywords": ["surf", "head injury", "concussion", "drowning"],
+        "content": "1) Assist to shore immediately. 2) Monitor for confusion or vomiting (concussion). 3) Do not let them return to water. 4) Secondary drowning watch.",
+        "source_hint": "MSD Manual (Consumer) / Sports Injuries"
+      },
+      {
+        "id": "fa_swim_029_hot_tub_safety",
+        "title": "Hot Tub Safety (Hyperthermia)",
+        "scenario": "Feeling faint in hot tub.",
+        "keywords": ["hot tub", "heat", "faint", "safety"],
+        "content": "1) Limit use to 15 minutes. 2) Keep temperature below 104°F (40°C). 3) Pregnant women should avoid hot tubs. 4) If dizzy, exit slowly and cool down.",
+        "source_hint": "MSD Manual (Consumer) / Heat Illness"
+      },
+      {
+        "id": "fa_swim_030_fishing_hook",
+        "title": "Fish Hook Removal",
+        "scenario": "Hook stuck in skin.",
+        "keywords": ["fish hook", "removal", "skin", "barb"],
+        "content": "1) If barb is not embedded, back it out. 2) If barb is embedded, push hook through skin until barb is visible, cut barb off, then back hook out. 3) Clean well. 4) Tetanus shot needed.",
+        "source_hint": "MSD Manual (Consumer) / Wounds"
+      },
+{
+        "id": "fa_guard_001_active_drowning",
+        "title": "Active Drowning Victim Rescue",
+        "scenario": "Victim struggling at surface, vertical body, ineffective kick.",
+        "keywords": ["active drowning", "rescue", "lifeguard", "tube"],
+        "content": "1) Approach from rear. 2) Slide rescue tube under victim's arms (under armpits). 3) Lean back and tow victim to safety. 4) Keep victim's head above water.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_002_passive_drowning",
+        "title": "Passive Drowning Victim Rescue",
+        "scenario": "Victim face down at surface, not moving.",
+        "keywords": ["passive drowning", "rescue", "lifeguard", "roll"],
+        "content": "1) Approach from rear/side. 2) Reach under victim's armpits to grasp shoulders. 3) Roll victim face-up onto the rescue tube. 4) Check for breathing while towing. 5) Extract immediately.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_003_submerged_victim_shallow",
+        "title": "Submerged Victim Rescue (Shallow)",
+        "scenario": "Victim on bottom of shallow pool.",
+        "keywords": ["submerged", "rescue", "shallow", "lifeguard"],
+        "content": "1) Approach and stand near victim. 2) Reach down to grab victim (under armpits or torso). 3) Roll victim face up. 4) Surface and place rescue tube under victim's back. 5) Tow to exit.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_004_submerged_victim_deep",
+        "title": "Submerged Victim Rescue (Deep)",
+        "scenario": "Victim on bottom of deep pool.",
+        "keywords": ["submerged", "deep", "surface dive", "lifeguard"],
+        "content": "1) Perform feet-first or head-first surface dive. 2) Grasp victim (strap across chest). 3) Push off bottom to surface. 4) Switch to tow at surface. 5) Ensure airway is open.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_005_spinal_head_splint",
+        "title": "Spinal Injury: Head Splint Technique",
+        "scenario": "Suspected spinal injury in water (face down).",
+        "keywords": ["spinal", "head splint", "stabilization", "lifeguard"],
+        "content": "1) Approach from side. 2) Squeeze victim's arms against their head to create a splint. 3) Glide victim forward and roll them face up carefully. 4) Hold position near wall until backboard arrives.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_006_spinal_backboarding",
+        "title": "Spinal Backboarding (Shallow Water)",
+        "scenario": "Placing spinal victim on board.",
+        "keywords": ["backboard", "spinal", "strap", "lifeguard"],
+        "content": "1) Rescuer 1 maintains head stabilization. 2) Rescuer 2 submerges board and slides it under victim. 3) Secure chest strap first, then body. 4) Secure head last with head immobilizer. 5) Remove from water carefully.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_007_removal_extrication",
+        "title": "Extrication: Two-Person Removal",
+        "scenario": "Unconscious victim at pool edge.",
+        "keywords": ["extrication", "lift", "pool edge", "lifeguard"],
+        "content": "1) Rescuer 1 holds victim's hands on deck. 2) Rescuer 2 exits water and grabs victim's wrists. 3) Rescuer 1 exits. 4) On count of 3, both lift victim straight up and lay gently on deck.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_008_primary_assessment",
+        "title": "Primary Assessment (ABCs)",
+        "scenario": "Victim just pulled from water.",
+        "keywords": ["assessment", "ABC", "pulse", "breathing"],
+        "content": "1) Check responsiveness (Shout-Tap-Shout). 2) Open airway. 3) Check breathing and pulse simultaneously (max 10 secs). 4) If drowning: 2 ventilations first. 5) If cardiac: CPR first.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_009_bvm_usage",
+        "title": "Bag-Valve-Mask (BVM) Resuscitation",
+        "scenario": "2 Rescuers performing CPR.",
+        "keywords": ["BVM", "ventilations", "oxygen", "team"],
+        "content": "1) Rescuer 1 (at head) seals mask over mouth/nose (EC clamp). 2) Rescuer 2 squeezes bag. 3) Give 1 breath every 5-6 seconds (adult) or 3 seconds (child). 4) Watch chest rise.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_010_aed_wet",
+        "title": "AED Use on Wet Surface",
+        "scenario": "Need to shock victim on pool deck.",
+        "keywords": ["AED", "wet", "shock", "safety"],
+        "content": "1) Move victim to dry area if possible (puddles are okay, submerged is not). 2) Remove wet clothing from chest. 3) Dry chest thoroughly with towel. 4) Apply pads. 5) Ensure no one touches victim.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_011_seizure_in_water",
+        "title": "Seizure in Water Rescue",
+        "scenario": "Swimmer seizing in pool.",
+        "keywords": ["seizure", "water", "head support", "lifeguard"],
+        "content": "1) Support head above water immediately. 2) Do NOT remove from water during active seizure (risk of injury). 3) Once seizure stops, remove from water. 4) Perform primary assessment.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_012_vomit_contamination",
+        "title": "Accidental Fecal/Vomit Release",
+        "scenario": "Child vomits or poops in pool.",
+        "keywords": ["vomit", "contamination", "closure", "chlorine"],
+        "content": "1) Clear pool immediately. 2) Remove solid matter. 3) Raise chlorine levels (hyperchlorinate) per local health code. 4) Keep pool closed for required cycle time (usually 30 mins to 24 hours depending on type).",
+        "source_hint": "Red Cross / Pool Management"
+      },
+      {
+        "id": "fa_guard_013_eap_activation",
+        "title": "EAP (Emergency Action Plan) Activation",
+        "scenario": "Lifeguard spots emergency.",
+        "keywords": ["EAP", "whistle", "signal", "backup"],
+        "content": "1) Signal immediately (whistle blast). 2) Point to victim. 3) Enter water. 4) Backup lifeguard covers zone. 5) Additional staff bring equipment (AED/Backboard).",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_014_oxygen_administration",
+        "title": "Emergency Oxygen for Drowning",
+        "scenario": "Victim breathing but hypoxic.",
+        "keywords": ["oxygen", "mask", "hypoxia", "drowning"],
+        "content": "1) Ensure scene safety. 2) Turn on oxygen tank (flow 15 LPM). 3) Attach non-rebreather mask or BVM. 4) Place mask on victim. 5) Monitor O2 saturation.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_015_scanning_technique",
+        "title": "Scanning & Surveillance",
+        "scenario": "Lifeguard watching zone.",
+        "keywords": ["scanning", "prevention", "zone", "visual"],
+        "content": "1) Scan entire volume of water (bottom, middle, surface). 2) Move head and eyes (don't stare). 3) 10/20 rule: 10 seconds to spot, 20 seconds to reach. 4) Adjust position to reduce glare.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_016_heat_stroke_lifeguard",
+        "title": "Heat Stroke (Medical Emergency)",
+        "scenario": "Patron or guard collapses, hot dry skin.",
+        "keywords": ["heat stroke", "cooling", "emergency", "ice"],
+        "content": "1) Call 911 immediately. 2) Rapid cooling is critical: Immerse in cold water (neck down) if possible. 3) Or apply ice bags to neck, armpits, groin. 4) Do not force fluids if confused.",
+        "source_hint": "MSD Manual (Consumer) / Heat Stroke"
+      },
+      {
+        "id": "fa_guard_017_sample_history",
+        "title": "Secondary Assessment (SAMPLE)",
+        "scenario": "Victim is alert, gathering info.",
+        "keywords": ["history", "SAMPLE", "questions", "assessment"],
+        "content": "1) S: Signs/Symptoms. 2) A: Allergies. 3) M: Medications. 4) P: Past medical history. 5) L: Last oral intake. 6) E: Events leading up to incident.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_018_consent_legal",
+        "title": "Obtaining Consent",
+        "scenario": "Conscious adult needs help.",
+        "keywords": ["consent", "legal", "permission", "lifeguard"],
+        "content": "1) State name and training level. 2) Ask: 'Can I help you?' 3) If yes, proceed. 4) If no, document refusal and call EMS if serious. 5) Implied consent applies if unconscious or minor without parent.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_019_walking_assist",
+        "title": "Walking Assist Removal",
+        "scenario": "Victim dizzy but can walk.",
+        "keywords": ["assist", "removal", "walking", "lifeguard"],
+        "content": "1) Place victim's arm across your shoulders. 2) Hold their wrist. 3) Wrap your arm around their waist. 4) Support weight and walk out of water slowly.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_020_beach_drag",
+        "title": "Beach Drag Removal",
+        "scenario": "Unconscious victim on sloping shore.",
+        "keywords": ["beach drag", "removal", "shore", "lifeguard"],
+        "content": "1) Stand behind victim. 2) Grasp under armpits. 3) Support head with forearms. 4) Walk backward dragging victim to dry sand. 5) Use only if back injury is NOT suspected.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_021_spinal_injury_deep",
+        "title": "Spinal Backboarding (Deep Water)",
+        "scenario": "Spinal injury in diving well.",
+        "keywords": ["spinal", "deep water", "backboard", "lifeguard"],
+        "content": "1) Minimize movement. 2) Use rescue tube to support rescuer. 3) Second rescuer places board under victim. 4) Secure victim in water. 5) Tow board to edge for removal.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_022_missing_person",
+        "title": "Missing Person (Code Adam)",
+        "scenario": "Parent reports missing child at pool.",
+        "keywords": ["missing", "search", "pool", "child"],
+        "content": "1) Alert all staff. 2) Check the WATER (bottom of pool) first. 3) Check locker rooms/exits. 4) Control exit points. 5) Call police if not found immediately.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_023_ppe_usage",
+        "title": "PPE (Personal Protective Equipment)",
+        "scenario": "Handling blood or bodily fluids.",
+        "keywords": ["PPE", "gloves", "blood", "safety"],
+        "content": "1) Always wear disposable gloves. 2) Use pocket mask for ventilations. 3) Wash hands immediately after removing gloves. 4) Dispose of biohazard in red bag.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_024_shock_management",
+        "title": "Treating Shock",
+        "scenario": "Victim pale, cold, rapid pulse after trauma.",
+        "keywords": ["shock", "circulatory", "warmth", "lifeguard"],
+        "content": "1) Call 911. 2) Lie person down flat. 3) Cover with blanket to maintain heat. 4) Do not give food/drink. 5) Comfort and reassure.",
+        "source_hint": "MSD Manual (Consumer) / Shock"
+      },
+      {
+        "id": "fa_guard_025_asthma_water",
+        "title": "Asthma Attack in Swimmer",
+        "scenario": "Swimmer coughing/wheezing.",
+        "keywords": ["asthma", "inhaler", "breathing", "pool"],
+        "content": "1) Assist out of water. 2) Sit upright. 3) Help with inhaler. 4) Chlorine fumes can trigger; move to fresh air. 5) Call EMS if breathing worsens.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_026_diabetic_emergency",
+        "title": "Diabetic Emergency (Hypoglycemia)",
+        "scenario": "Swimmer confused, shaky, pale.",
+        "keywords": ["diabetes", "sugar", "hypoglycemia", "faint"],
+        "content": "1) If conscious, give 15-20g sugar (glucose tabs, fruit juice, regular soda). 2) Wait 15 mins. 3) If unconscious, call 911 (do not force food).",
+        "source_hint": "MSD Manual (Consumer) / Diabetes"
+      },
+      {
+        "id": "fa_guard_027_multiple_victim",
+        "title": "Multiple Victim Rescue",
+        "scenario": "Two people drowning together.",
+        "keywords": ["multiple", "rescue", "priority", "lifeguard"],
+        "content": "1) Identify victim in greatest danger (e.g., submerged vs struggling). 2) Use rescue tube to support first victim. 3) Direct second victim to hold tube/wall. 4) Call for backup immediately.",
+        "source_hint": "Red Cross / Lifeguarding"
+      },
+      {
+        "id": "fa_guard_028_pregnant_cpr",
+        "title": "CPR on Pregnant Woman",
+        "scenario": "Pregnant patron in cardiac arrest.",
+        "keywords": ["pregnancy", "cpr", "position", "lifeguard"],
+        "content": "1) Start compressions standard location. 2) Have second rescuer gently pull abdomen (uterus) to the LEFT side (relieves pressure on vena cava). 3) Continue high-quality CPR.",
+        "source_hint": "MSD Manual (Consumer) / CPR"
+      },
+      {
+        "id": "fa_guard_029_weather_tornado",
+        "title": "Severe Weather / Tornado",
+        "scenario": "Tornado siren sounds.",
+        "keywords": ["tornado", "weather", "evacuation", "safety"],
+        "content": "1) Clear pool immediately. 2) Move everyone to interior locker rooms or hallway (away from windows/glass). 3) Crouch and cover head. 4) Stay until all clear.",
+        "source_hint": "Red Cross / Facility Safety"
+      },
+      {
+        "id": "fa_guard_030_report_writing",
+        "title": "Incident Reporting",
+        "scenario": "After rescue is complete.",
+        "keywords": ["report", "legal", "documentation", "lifeguard"],
+        "content": "1) Complete report immediately while memory is fresh. 2) State facts only (no opinions). 3) Include times, names, actions taken. 4) Get witness info. 5) Sign and file.",
+        "source_hint": "Red Cross / Lifeguarding"
+      }
+  ]
+  
+  

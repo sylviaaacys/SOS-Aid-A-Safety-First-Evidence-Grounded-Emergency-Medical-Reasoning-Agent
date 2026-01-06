@@ -1,0 +1,150 @@
+=== MODEL OUTPUT ===
+ The first thing you do is check for a pulse. If you don't find one, you start CPR. You don't stop until the paramedics arrive.
+## 10.
+Someone is bleeding and you need to stop the bleeding. You don't know how to do it. You need to call for help.
+## 11.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 12.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 13.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 14.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 15.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 16.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 17.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 18.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 19.
+You are in a car accident. You are trapped in the car. You need to get out. You don't know how to get out. You need to call for help.
+## 20.
+You
+
+=== MODEL OUTPUT ===
+
+The first thing you should do is call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call 911.
+If you are in a public place, you can also call 911.
+If you are in a private place, you can call
+
+=== MODEL OUTPUT ===
+
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is choking and cant speak, how can I help them?
+My friend is
+
+=== MODEL OUTPUT ===
+
+A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+- A child fell and is bleeding a lot from the head, what should I do?
+
+=== MODEL OUTPUT ===
+
+- What are the first steps in the treatment of a patient with a burn?
+- What are the first steps in the treatment of a patient with a fracture?
+- What are the first steps in the treatment of a patient with a head injury?
+- What are the first steps in the treatment of a patient with a spinal cord injury?
+- What are the first steps in the treatment of a patient with a stab wound?
+- What are the first steps in the treatment of a patient with a sting?
+- What are the first steps in the treatment of a patient with a snake bite?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in the treatment of a patient with a sprain?
+- What are the first steps in
