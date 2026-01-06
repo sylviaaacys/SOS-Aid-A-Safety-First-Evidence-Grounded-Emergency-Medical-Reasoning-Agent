@@ -1,0 +1,27 @@
+Example 1: Collapses and not breathing
+You: Someone collapses and is not breathing
+Agent:
+WHAT TO DO NOW:
+- Call emergency services immediately.
+- Check if the person is responsive and breathing.
+- If they are unresponsive and not breathing, start hands-only CPR immediately.
+HOW TO HELP (SHORT EXPLANATION):
+- Hands-only CPR:
+- Place the heel of one hand in the center of the chest.
+- Place your other hand on top.
+- Push hard and fast, about 100-120 compressions per minute.
+- Let the chest rise fully between compressions.
+- Continue until help arrives.
+EMERGENCY CONTACT:
+- Do you need the emergency phone number for your location? If yes, tell me your city/
+country (or address).
+You: yes, Kuala Lumpur, Malaysia
+FOLLOWUP wants= True loc= Kuala Lumpur, Malaysia
+TAVILY QUERY: Official emergency ambulance phone number Kuala Lumpur, Malaysia
+Agent:
+EMERGENCY NUMBER LOOKUP:
+The service known as Emergency Line 991 was launched on 21 May 1995 and the Kuala Lumpur Civil Defense Office has been the pioneer of this line. From 1 October 2007 the 999 emergency line was introduced to the Malaysian community by combining all emergency numbers namely 991, 994 and 999 into one emergency number involving the agencies of the Malaysian Civil Defense Department (JPAM), the Royal Malaysian Police (PDRM), the Malaysian Ministry of Health ( KKM) and the Malaysian Fire and Rescue Department ( JBPM) to integrate data management, the number of agencies and the use of an integrated system to improve the level of emergency service delivery between agencies with a uniform service procedure and procedure that coincides with the governments intention through the motto One Malaysia a Number.
+Sources:
+https://www.civildefence.gov.my/999-emergency-services/?lang=en
+https://my.usembassy.gov/doctors/
+https://trekmedics.org/database/malaysia-2/

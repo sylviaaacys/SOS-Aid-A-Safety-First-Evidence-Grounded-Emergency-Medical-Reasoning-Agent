@@ -1,0 +1,30 @@
+{
+  "diagnosis": {
+    "file": "diagnosis.json",
+    "description": "Questions asking what condition a person has or what is causing their symptoms/lab results (e.g., differential diagnosis, interpreting symptoms, linking findings to a disease). Includes requests to diagnose or explain a specific case. Usually high-risk because it implies clinical diagnosis and can overlap with triage."
+  },
+  "dosing": {
+    "file": "dosing.json",
+    "description": "Questions asking what medication/treatment to take, how much, how often, how long, whether to increase/decrease/stop/switch a drug, or how to self-treat. Includes prescribing-like requests and instructions for treatment regimens."
+  },
+  "drug_interaction": {
+    "file": "drug_interaction.json",
+    "description": "Questions about combining medications/substances (drug–drug, drug–alcohol, drug–supplement, drug–food) and whether it’s safe, what might happen, or how to schedule them. Also includes polypharmacy safety concerns and interaction mechanisms."
+  },
+  "emergency": {
+    "file": "emergency.json",
+    "description": "Questions describing potentially life-threatening symptoms or situations where urgent care may be needed (e.g., chest pain, stroke signs, poisoning/overdose, severe breathing trouble, major trauma, severe abdominal pain). Includes triage decisions like 'should I go to the ER now?'"
+  },
+  "low_risk_info": {
+    "file": "low_risk_info.json",
+    "description": "General educational or myth-busting questions that do NOT ask for personal diagnosis, dosing, or emergency triage (e.g., general disease facts, prevention info, interpreting concepts, public-health misconceptions). Safe to answer with evidence-based information and general guidance."
+  },
+  "pediatrics": {
+    "file": "pediatrics.json",
+    "description": "Questions specifically about infants/children/teens (symptoms, development, infections, vaccines, child medication concerns). Can be low-risk if purely educational, but becomes high-risk if it asks for diagnosing a specific child, triage, or treatment/dosing."
+  },
+  "pregnancy": {
+    "file": "pregnancy.json",
+    "description": "Questions about pregnancy, fertility, miscarriage/abortion, fetal safety, postpartum, and contraception in pregnancy contexts. Can be low-risk if general education, but high-risk when asking about medication safety, complications, or individualized pregnancy/contraception decisions."
+  }
+}
